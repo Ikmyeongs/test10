@@ -5,10 +5,20 @@ asfsdfsdfasdfsdasdas
 fxck
 
 
+<<<<<<< HEAD
 shit...
 so difficult...
 
+=======
+>>>>>>> feature/branch1
 ??? 다 어디감?
 
 
 브랜치 2는 어디에?
+<<<<<<< HEAD
+=======
+
+첫번째 수정, 브랜치1의 커밋1
+두번째 수정, 브랜치1의 커밋2
+
+>>>>>>> feature/branch1
