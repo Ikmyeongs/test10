@@ -4,7 +4,11 @@ asfsdfsdfasdfsdasdas
 
 fxck
 
+
 ??? 다 어디감?
 
 
 브랜치 2는 어디에?
+
+첫번째 수정, 브랜치1의 커밋1
+
